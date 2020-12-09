@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/govlawtech/chat-bot-qa-notebook/HEAD?filepath=notebooks%2Fquestion%20search%20demo.ipynb)
